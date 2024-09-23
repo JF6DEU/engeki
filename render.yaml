@@ -4,3 +4,5 @@ services:
    type: web
    runtime: node
    branch: master
+   buildCommand: npm install ws
+   startCommand: node ./index.js
