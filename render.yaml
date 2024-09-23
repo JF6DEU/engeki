@@ -3,6 +3,6 @@ services:
    plan: free
    type: web
    runtime: node
-   branch: master
+   branch: main
    buildCommand: npm install ws
    startCommand: node ./index.js
