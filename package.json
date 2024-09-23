@@ -1,0 +1,14 @@
+{
+  "name": "engeki",
+  "version": "1.0.0",
+  "description": "node websocket server for drama club.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./index.js"
+  },
+  "author": "JF6DEU",
+  "license": "AGPL-3.0-or-later",
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
